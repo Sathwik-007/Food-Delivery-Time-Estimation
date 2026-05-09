@@ -48,12 +48,12 @@ In food delivery, errors are not created equal. Underestimating by 10 minutes ca
 ### Algorithm Weights Comparison
 Notice how the Normal Equation acts as a baseline, Ridge gently squishes the One-Hot Encoded features to prevent overfitting, and Batch Gradient Descent approximates the closed-form solution iteratively.
 
-![Algorithm Weights Comparison](assets/model_weights_comparison.png)
+![Algorithm Weights Comparison](./model_weights_comparison.png)
 
 ### The Interaction Crossover
 By scaling and applying Interaction Terms, the model calculates unique speed slopes. It correctly learns that bicycles win in short distances (downtown traffic), while motorcycles eventually overtake them at longer distances.
 
-![Interaction Crossover Chart](assets/interaction_crossover.png)
+![Interaction Crossover Chart](./interaction_crossover.png)
 
 ---
 
