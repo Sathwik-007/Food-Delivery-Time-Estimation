@@ -80,3 +80,15 @@ By scaling and applying Interaction Terms, the model calculates unique speed slo
    ```bash
    git clone https://github.com/Sathwik-007/Food-Delivery-Time-Estimation.git
    cd Food-Delivery-Time-Estimation
+
+2. Install dependencies
+   ```py
+   pip install -r requirements.txt
+
+3. Boot up the FastAPI Backend (Terminal 1):
+   ```bash
+   uvicorn api:app --reload
+
+4. Boot up the Streamlit Frontend (Terminal 2):
+   ```bash
+   streamlit run app.py
