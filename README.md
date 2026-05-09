@@ -56,7 +56,7 @@ By scaling and applying Interaction Terms, the model calculates unique speed slo
 ![Interaction Crossover Chart](./interaction_crossover.png)
 
 ### The Error range: ACTUAL vs Predicted Time
-![Interaction Crossover Chart](./actual_vs_predicted_error.png)
+![Interaction Crossover Chart](.actual_vs_predicted_error.png)
 
 
 ---
@@ -79,7 +79,4 @@ By scaling and applying Interaction Terms, the model calculates unique speed slo
 1. Clone the repository:
    ```bash
    git clone https://github.com/Sathwik-007/Food-Delivery-Time-Estimation.git
-   cd delivery-time-predictor
-=======
-# Food-Delivery-Time-Estimation
-Predicting food delivery times using raw linear algebra. A deep dive into building Custom Linear Regression models (Normal Eq, Ridge, BGD) from scratch, handling categorical anomalies, and using interaction terms to model real-world logistics
+   cd Food-Delivery-Time-Estimation
