@@ -55,6 +55,10 @@ By scaling and applying Interaction Terms, the model calculates unique speed slo
 
 ![Interaction Crossover Chart](./interaction_crossover.png)
 
+### The Error range: ACTUAL vs Predicted Time
+![Interaction Crossover Chart](./actual_vs_predicted_error.png)
+
+
 ---
 
 ## 🛠️ Tech Stack & Architecture
@@ -74,5 +78,5 @@ By scaling and applying Interaction Terms, the model calculates unique speed slo
 
 1. Clone the repository:
    ```bash
-   git clone (https://github.com/Sathwik-007/Food-Delivery-Time-Estimation.git)
+   git clone https://github.com/Sathwik-007/Food-Delivery-Time-Estimation.git
    cd delivery-time-predictor
