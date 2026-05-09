@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🍔 Food Delivery Time Predictor: From Raw Math to Production API
 
 Instead of relying on black-box libraries like `scikit-learn` and simply calling `model.fit()`, this project builds the mathematical engines of Machine Learning entirely from the ground up using pure `NumPy`. 
@@ -84,4 +83,3 @@ By scaling and applying Interaction Terms, the model calculates unique speed slo
 =======
 # Food-Delivery-Time-Estimation
 Predicting food delivery times using raw linear algebra. A deep dive into building Custom Linear Regression models (Normal Eq, Ridge, BGD) from scratch, handling categorical anomalies, and using interaction terms to model real-world logistics
->>>>>>> a8a9a70970d11fab738123e58c4250b37f736c63
