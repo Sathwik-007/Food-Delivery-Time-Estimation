@@ -20,6 +20,7 @@
 !*.md
 !*.csv
 !*.pkl
+!*.txt
 
 # Always un-ignore the .gitignore file itself so your rules are pushed!
 !.gitignore
