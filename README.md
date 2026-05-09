@@ -56,7 +56,7 @@ By scaling and applying Interaction Terms, the model calculates unique speed slo
 ![Interaction Crossover Chart](./interaction_crossover.png)
 
 ### The Error range: ACTUAL vs Predicted Time
-![Interaction Crossover Chart](.actual_vs_predicted_error.png)
+![Interaction Crossover Chart](./actual_vs_predicted.png)
 
 
 ---
